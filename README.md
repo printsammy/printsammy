@@ -3,11 +3,11 @@
 - 🌱 I’m currently learning Lua & C#
 - 💞️ I’m looking to collaborate on mods that are made in Unreal Engine
 - 📫 How to reach me 
-Discord
+-Discord
 sammy.fbx#0708
-Twitter
+-Twitter
 @sammyfbx
-Telegram
+-Telegram
 sammyfbx
 
 <!---
